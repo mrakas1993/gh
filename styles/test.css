@@ -33,3 +33,6 @@ body {
     text-transform: uppercase;
     line-height: 0.5px;
  }
+ .box h1,h2,h3{
+   color: red;
+ }
