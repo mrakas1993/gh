@@ -1,0 +1,35 @@
+body {
+   font-style:url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+   line-height: 1.5;
+}
+.header {
+    font-size: 20px;
+}
+ a {
+    text-decoration: none;
+}
+.footer {
+    font-size: 13px;
+}
+.logo {
+    color:lightgreen;
+    background-color:  rebeccapurple;
+    font-weight: 700;
+}
+ .box a {
+    color: green;
+    font-weight: 700;
+    text-decoration: none;
+ }
+ .box h1  {
+    text-transform: uppercase;
+    line-height: 0.5px;
+ }
+ .box h2  {
+    text-transform: uppercase;
+    line-height: 0.5px;
+ }
+ .box h3  {
+    text-transform: uppercase;
+    line-height: 0.5px;
+ }
